@@ -1,0 +1,23 @@
+
+.banner {
+    background-image: url(../../images/yamanote.png);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+    display: flex;
+    align-items: flex-end
+}
+
+.banner img {
+  height: 500px;
+  width: 800px;
+  object-fit: cover;
+  object-position: 50% 45%;
+
+}
